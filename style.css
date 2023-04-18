@@ -1,8 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
 body{
     background-color:aqua;
 }
+
 .cabeçalho {
     background-color: whitesmoke;
     display: flex;
     justify-content: space-around;
+}
+
+.cabeçalho-imagem{
+    width: 80%;
+    padding: 12px;
+}
+
+.lista-cabeçalho{
+    display: inline-block;
+    padding: 30px;
+    color:beige;
+    font-size: 15px;
+    font-weight: bolder;
 }
