@@ -27,5 +27,9 @@ body{
 }
 
 .escola{
-    l
+    background-image:linear-gradient();
+    display: flex;
+    justify-content: left;
+    align-items: center;
+    padding: 24px 0;
 }
