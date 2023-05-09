@@ -38,3 +38,8 @@ body{
     display: inline-block;
     list-style-type: none;
 }
+
+.escola-imagem{
+    width: 90%;
+    margin: 46px;
+}
