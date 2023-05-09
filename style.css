@@ -33,3 +33,8 @@ body{
     align-items: center;
     padding: 24px 0;
 }
+
+.texto-lista{
+    display: inline-block;
+    list-style-type: none;
+}
