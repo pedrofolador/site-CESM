@@ -55,6 +55,10 @@ body{
     font-size: 15px;
 }
 
+.icones{
+    width: 30%;
+}
+
 .equipe{
     background-color:#C3CDDB;
     text-align: center;
