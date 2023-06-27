@@ -85,3 +85,25 @@ body{
     width:25%;
 }
 
+footer{
+    text-align: center;
+    background-color: rgba(62, 63, 68, 0.75);
+    padding: 10px 0;
+}
+
+.siganos{
+    color: white;
+    font-size: 20px;
+    padding: 10px 0 0;
+}
+
+.imagem-rodapé{
+    width: 10%;
+    padding: 5px;
+}
+
+.contato{
+color: white;
+font-size: 25px;
+padding: 5px;
+}
